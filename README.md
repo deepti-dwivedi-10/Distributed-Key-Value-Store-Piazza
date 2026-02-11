@@ -982,18 +982,6 @@ Read by slaves and client to locate coordinator.
 
 ---
 
-## License
-
-This is an educational project. Feel free to use, modify, and learn from it.
-
----
-
 ## Contact
 
 For questions or issues, refer to the troubleshooting section or examine the logs output by each component.
-
----
-
-**End of README**
-
-This distributed key-value store demonstrates production-grade distributed systems concepts in clean, understandable Java code. Perfect for learning, portfolio projects, and technical interviews.
