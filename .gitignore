@@ -1,0 +1,33 @@
+# Build outputs
+target/
+*.jar
+*.class
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+*~
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Configuration (generated at runtime)
+cs_config.txt
